@@ -6,3 +6,7 @@ Por fim o programa mostra o resultado da comparação e as informações relevan
 
 Caso o usuário escolha uma opção inexistente do menu, o programa exibirá a seguinte frase "Opção inválida!".
 
+**Nível Mestre**
+Agora além de permitir o cadastro das cartas e escolha de um atributo a ser comparado entre elas, 
+o programa passa a permitir a comparação com dois atributos. 
+Se uma das cartas vencer os dois atributos, será exibido que a carta foi a vencedora do jogo, caso contrário, o programa exibirá a mensagem de empate.   
